@@ -1,6 +1,8 @@
 ﻿# Sistema de Cálculo de Descontos para Marketplace 
  
-## Seu Nome:
+## Seu Nome: 
+
+**Marina Ferreira Sansão Cabalzar**
 
 ## Visão Geral do Projeto
 
