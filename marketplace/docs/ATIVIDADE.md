@@ -7,7 +7,7 @@ Você recebeu a versão do sistema implementada com **arquitetura em camadas**.
 
 ## Sua tarefa
 1. Identificar a arquitetura usada no projeto.
-2. Justificar com base na estrutura do código. - A arquotetura usada é MVC (Model, View e Controller)
+2. Justificar com base na estrutura do código. - A arquitetura usada é MVC (Model, View e Controller)
 3. Identificar a classe que deve ser alterada
 4. Implementar a feature de cálculo de descontos no carrinho.
 5. Realizar testes de ponta a ponta para validar a implementação.
